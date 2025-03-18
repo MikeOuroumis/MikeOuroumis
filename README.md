@@ -2,14 +2,6 @@
 
 🔧 Full-Stack Developer | React | React Native | Node.js
 
-### Featured Project
-
-I'm currently working on an exciting project called **Knowar - Multiplayer Quiz Game**. It's a fun and interactive game that you can play with friends or other players online. Your support would mean a lot to me!
-
-[![Star on GitHub](https://img.shields.io/github/stars/MikeOuroumis/knowar?style=social)](https://github.com/MikeOuroumis/knowar)
-
-Please check it out and give it a star if you find it interesting!
-
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOuroumis&layout=compact&theme=radical)
